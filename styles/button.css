@@ -1,1 +1,7 @@
-.directory-button {}
+.directory-button {
+    font-family: Comfortaa;
+    color: black;
+    background-color: rgb(74, 134, 232);
+    border-color: rgb(153, 0, 255);
+    border: 8px;
+}
