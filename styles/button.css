@@ -2,6 +2,10 @@
     font-family: Comfortaa;
     color: black;
     background-color: rgb(74, 134, 232);
-    border-color: rgb(153, 0, 255);
-    border: 8px;
+    border: 12px solid rgb(153, 0, 255);
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: 45px;
 }
