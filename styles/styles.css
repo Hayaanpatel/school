@@ -1,0 +1,18 @@
+.Directory-button {
+    font-family: Comfortaa;
+    color: black;
+    background-color: rgb(74, 134, 232);
+    border: 12px solid rgb(153, 0, 255);
+    border-radius: 3px;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: 45px;
+    cursor: pointer;
+}
+
+.starter-text {
+    color: rgb(41, 54, 54);
+    font-size: 25px;
+    font-family: Comfortaa;
+}
